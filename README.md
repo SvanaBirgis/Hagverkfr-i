@@ -1,2 +1,4 @@
-# Hagverkfr-i
+# Hagverkfræði
 Heimadæmi úr Hagverkfræði
+
+Flest allt 10
